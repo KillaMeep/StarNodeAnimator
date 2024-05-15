@@ -133,14 +133,5 @@ Contributions are welcome! Here are several ways you can contribute:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="center">
-   <a href="https://github.com{/KillaMeep/StarNodeAnimator.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=KillaMeep/StarNodeAnimator.git">
-   </a>
-</p>
-</details>
 
 ---
