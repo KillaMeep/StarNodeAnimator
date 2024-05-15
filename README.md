@@ -51,7 +51,7 @@ StarNodeAnimator is an open-source software project that uses OpenGL through Pyg
 
 ##  Modules
 
-<details closed><summary>.</summary>
+<details open><summary>.</summary>
 
 | File                                                                                               | Summary                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---                                                                                                | ---                                                                                                                                                                                                                                                                                                                                                                                               |
